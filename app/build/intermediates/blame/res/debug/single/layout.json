@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\New folder\\Android Image ListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "E:\\New folder\\Android Image ListView\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "E:\\New folder\\Android Image ListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\New folder\\Android Image ListView\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\New folder\\Android Image ListView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "E:\\New folder\\Android Image ListView\\app\\src\\main\\res\\layout\\detail.xml"
+    }
+]

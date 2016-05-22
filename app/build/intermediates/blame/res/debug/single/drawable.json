@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\New folder\\Android Image ListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile.png",
+        "source": "E:\\New folder\\Android Image ListView\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "E:\\New folder\\Android Image ListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imgright.png",
+        "source": "E:\\New folder\\Android Image ListView\\app\\src\\main\\res\\drawable\\imgright.png"
+    },
+    {
+        "merged": "E:\\New folder\\Android Image ListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg.xml",
+        "source": "E:\\New folder\\Android Image ListView\\app\\src\\main\\res\\drawable\\list_bg.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\New folder\Android Image ListView\app\libs\universal-image-loader-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="46fa825d6c53c79b9386de8624673d3655dbed96">
+        <dex dex="E:\New folder\Android Image ListView\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.2.1_854496574aecb8eb106188f4cd54709cd8f11811.jar" />
+    </item>
+
+</items>
